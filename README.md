@@ -3,8 +3,8 @@
  ## Manuscript ID- IEEE LATAM Submission ID: 9658
  
  ## Authors: 
- + Ganesh Babu. M
- + Srinivasa Rao Nayak. P
+ + Ganesh Babu. M, National Institute of Technology Tiruchirappalli, Tamil Nadu, India.
+ + Srinivasa Rao Nayak. P, National Institute of Technology Tiruchirappalli, Tamil Nadu, India.
 ## File Description
 
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
